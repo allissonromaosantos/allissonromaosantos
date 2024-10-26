@@ -43,6 +43,8 @@ Sou um programador curioso e que gosta de aprender através de livros, vídeos e
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/allissonromaosantos"><img src="https://github-readme-stats.vercel.app/api?username=allissonromaosantos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="allissonromaosantos's GitHub stats" title="allissonromaosantos's GitHub stats" /></a>
+![allissonromaosantos's Stats](https://github-readme-stats.vercel.app/api?username=allissonromaosantos&theme=nord&show_icons=true&hide_border=false&count_private=true)
 
-<a href="https://github.com/allissonromaosantos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allissonromaosantos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" title="Top Languages" /></a>
+![allissonromaosantos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=allissonromaosantos&theme=nord&hide_border=false)
+
+![allissonromaosantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allissonromaosantos&theme=nord&show_icons=true&hide_border=false&layout=compact)
