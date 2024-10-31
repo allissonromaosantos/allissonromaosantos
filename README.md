@@ -1,7 +1,7 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), meu nome é Alisson!
 ===============================================================================================================================
 
-Desenvolvedor de Software Backend
+Programador 
 ---------------------------------
 
 Sou um programador curioso e que gosta de aprender através de livros, vídeos e documentações. Iniciei aprendendo sobre HTML mas hoje sou apaixonado por desenvolvimento backend.
