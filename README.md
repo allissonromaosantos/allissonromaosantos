@@ -1,10 +1,10 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), meu nome é Alisson!
 ===============================================================================================================================
 
-<!-- Programador 
+## Programador
 ---------------------------------
 
-Sou um programador curioso e que gosta de aprender através de livros, vídeos e documentações. Iniciei aprendendo sobre HTML mas hoje sou apaixonado por desenvolvimento backend.
+Sou um programador curioso e que gosta de aprender através de livros, vídeos e documentações.
 
 * 🌍  Moro em Camaçari, Bahia, Brasil
 * ✉️  Você pode me contactar em [allissonromaosantos@gmail.com](mailto:allissonromaosantos@gmail.com)
@@ -32,7 +32,7 @@ Sou um programador curioso e que gosta de aprender através de livros, vídeos e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" title="Prisma" /></a>
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose" title="Mongoose" /></a>
 <a href="https://typeorm.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" width="102" height="52" alt="TypeORM" title="TypeORM" /></a>
-</p> -->
+</p>
 
 
 ### Socials
@@ -44,7 +44,5 @@ Sou um programador curioso e que gosta de aprender através de livros, vídeos e
 <b>My GitHub Stats</b>
 
 ![alissonromao's Stats](https://github-readme-stats.vercel.app/api?username=alissonromao&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
-![alissonromao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alissonromao&theme=nord&hide_border=false)
 
 ![alissonromao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonromao&theme=nord&show_icons=true&hide_border=false&layout=compact)
